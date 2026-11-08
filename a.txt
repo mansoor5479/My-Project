@@ -1,6 +1,6 @@
-
+echo
 echo hello world
-
+echo
 ps -ef
 lsof -i | grep 80
 touch 1
