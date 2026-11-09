@@ -4,4 +4,5 @@ echo
 ps -ef
 lsof -i | grep 80
 touch 1
+chmod 700 1
 
